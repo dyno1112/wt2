@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="setAQ1.css"?>
+<setAQ1>
+<setA>
+<iname>Mobile</iname>
+<price>21500</price>
+<quantity>11</quantity>
+</setA>
+
+<setA>
+<iname>Air Buds</iname>
+<price>17000</price>
+<quantity>10</quantity>
+</setA>
+
+<setA>
+<iname>Hard disk</iname>
+<price>9000</price>
+<quantity>9</quantity>
+</setA>
+
+<setA>
+<iname>Laptop</iname>
+<price>1500</price>
+<quantity>5</quantity>
+</setA>
+
+</setAQ1>
+
